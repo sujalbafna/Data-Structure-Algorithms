@@ -75,9 +75,3 @@ Found a bug 🐛 or want to improve something? Feel free to open an issue or sub
 A big shoutout to all learners and contributors who keep improving this repository! 🎉  
 
 ---
-
-**Happy Coding! 🧑‍💻✨**  
-
----  
-
-Let me know if you'd like to add more sections! 😊
